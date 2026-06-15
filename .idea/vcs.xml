@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad1-konflikty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad10-sledztwo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad11-blame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad12-diff" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad13-force-push" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad2-rebase-konflikt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad3-stash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad4-cherry-pick" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad5-rebase-interactive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad6-reflog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad7-bisect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad8-reset-revert" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/git-zad9" vcs="Git" />
+  </component>
+</project>
